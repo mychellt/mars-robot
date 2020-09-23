@@ -1,5 +1,9 @@
 package br.evoluum.robot.model;
 
+/**
+ * @author Mychell Teixeira (mychellt@gmail.com)
+ * @since 22/09/2020
+ */
 public enum Direction {
     NORTH("N"), SOUTH("S"), EAST("E"), WEST("W");
 

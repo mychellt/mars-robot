@@ -5,6 +5,11 @@ import org.springframework.util.StringUtils;
 
 import static br.evoluum.robot.model.Direction.*;
 
+/**
+ * @author Mychell Teixeira (mychellt@gmail.com)
+ * @since 22/09/2020
+ */
+
 @Getter
 @Setter
 @Builder

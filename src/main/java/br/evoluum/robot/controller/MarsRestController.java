@@ -9,6 +9,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+
+/**
+ * @author Mychell Teixeira (mychellt@gmail.com)
+ * @since 22/09/2020
+ */
+
 @RestController
 @RequestMapping("/rest/mars")
 public class MarsRestController {

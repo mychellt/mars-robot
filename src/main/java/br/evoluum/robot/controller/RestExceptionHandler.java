@@ -10,6 +10,11 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExcep
 
 import java.util.Optional;
 
+/**
+ * @author Mychell Teixeira (mychellt@gmail.com)
+ * @since 22/09/2020
+ */
+
 @ControllerAdvice
 public class RestExceptionHandler extends ResponseEntityExceptionHandler {
     @ExceptionHandler(AppException.class)
