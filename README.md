@@ -1,7 +1,7 @@
 # Desafio - Robot - Evoluum Community
 
 
--- Objetivo:
+Objetivo:
 
 O objetivo desse desafio é demonstrar sua experiência e conhecimento como
 desenvolvedor, assim saberemos como você pensa e como resolve problemas na vida real.
